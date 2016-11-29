@@ -1,6 +1,8 @@
 # Bookmark Web App | Ruby on Rails
 
-Web application demonstrating basics of ruby on rails MVC
+Web application demonstrating basics of ruby on rails MVC. 
+
+Use: Manage and share bookmarks
 
 ## Concepts Covered
 
@@ -15,3 +17,4 @@ Web application demonstrating basics of ruby on rails MVC
 - Add CRUD resources
 - Improve app flawlessly
 - Proactively fix Ruby on Rails bugs
+- Develop and get started extremely fast with Rake, scaffolds, and components
