@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Bookmarks::Application.load_tasks
+RubyonrailsBookmark::Application.load_tasks

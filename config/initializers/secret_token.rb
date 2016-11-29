@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Bookmarks::Application.config.secret_key_base = '2c283aba7bb47c09fde9b7b431334d178099bf9ebd0caecefde66fd49fb9886614f93fae615b3ba0012f537c0bd3f7e519cf6a1cfd77b73d56769e1a8d9df965'
+RubyonrailsBookmark::Application.config.secret_key_base = '7c36259655a62df51b89044a0a0ac9d65186deabc9d9ecd1b4888fb6c678f737921e0ba6cf3985a1a5faaea8405c6aa47941ce9bc2f6159824ac937f66970df4'
